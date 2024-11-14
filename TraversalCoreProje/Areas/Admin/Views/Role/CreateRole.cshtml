@@ -1,0 +1,14 @@
+﻿@using TraversalCoreProje.Areas.Admin.Models
+@model CreateRoleViewModel
+@{
+    ViewData["Title"] = "CreateRole";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Rol Oluşturma Sayfası</h1>
+<form  method="post">
+    <label class="form-label">Rol Adını Giriniz</label>    
+    <input type="type" class="form-control" asp-for="RoleName"  />
+    <button class="btn btn-primary">Rol Ekle</button>
+</form>
+

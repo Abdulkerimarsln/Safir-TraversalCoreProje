@@ -1,0 +1,253 @@
+2024-10-15 13:20:53.998 +03:00 [INF] User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-15 13:20:54.161 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-15 13:20:54.165 +03:00 [INF] Hosting environment: Development
+2024-10-15 13:20:54.165 +03:00 [INF] Content root path: C:\Users\Administrator\source\repos\TraversalCoreProje\TraversalCoreProje
+2024-10-15 13:20:54.188 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:20:54.393 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:20:54.405 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:20:54.411 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:20:54.417 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:20:54.502 +03:00 [INF] Executed ViewResult - view Index executed in 85.3001ms.
+2024-10-15 13:20:54.506 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 100.5299ms
+2024-10-15 13:20:54.507 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:20:54.515 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 331.4828ms
+2024-10-15 13:20:54.532 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:20:54.532 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:20:54.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 2.3856ms
+2024-10-15 13:20:54.571 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 39.4515ms
+2024-10-15 13:21:07.257 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:21:07.267 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:21:07.267 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:21:07.268 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:21:07.269 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:21:07.271 +03:00 [INF] Executed ViewResult - view Index executed in 2.2286ms.
+2024-10-15 13:21:07.271 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 3.5036ms
+2024-10-15 13:21:07.271 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:21:07.271 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 13.9648ms
+2024-10-15 13:21:07.293 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:21:07.293 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:21:07.295 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.2688ms
+2024-10-15 13:21:07.305 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 11.6859ms
+2024-10-15 13:21:08.767 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/Privacy - null null
+2024-10-15 13:21:08.780 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:21:08.782 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:21:08.800 +03:00 [INF] 15.10.2024 00:00:00Privacy Sayfası Çağrıldı
+2024-10-15 13:21:08.801 +03:00 [INF] Executing ViewResult, running view Privacy.
+2024-10-15 13:21:08.803 +03:00 [INF] Executed ViewResult - view Privacy executed in 2.7686ms.
+2024-10-15 13:21:08.803 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje) in 20.2421ms
+2024-10-15 13:21:08.803 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:21:08.803 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/Privacy - 200 null text/html; charset=utf-8 35.7567ms
+2024-10-15 13:21:08.821 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:21:08.825 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:21:08.826 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.2182ms
+2024-10-15 13:21:08.832 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.0158ms
+2024-10-15 13:21:18.587 +03:00 [INF] User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-15 13:21:18.775 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-15 13:21:18.778 +03:00 [INF] Hosting environment: Development
+2024-10-15 13:21:18.779 +03:00 [INF] Content root path: C:\Users\Administrator\source\repos\TraversalCoreProje\TraversalCoreProje
+2024-10-15 13:21:18.802 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:21:19.067 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:21:19.085 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:21:19.094 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:21:19.103 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:21:19.194 +03:00 [INF] Executed ViewResult - view Index executed in 93.7838ms.
+2024-10-15 13:21:19.198 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 112.6655ms
+2024-10-15 13:21:19.198 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:21:19.207 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 408.453ms
+2024-10-15 13:21:19.223 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:21:19.223 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:21:19.231 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 4.3457ms
+2024-10-15 13:21:19.275 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.1009ms
+2024-10-15 13:22:38.528 +03:00 [INF] User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-15 13:22:38.687 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-15 13:22:38.691 +03:00 [INF] Hosting environment: Development
+2024-10-15 13:22:38.692 +03:00 [INF] Content root path: C:\Users\Administrator\source\repos\TraversalCoreProje\TraversalCoreProje
+2024-10-15 13:22:38.710 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:22:38.864 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:38.874 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:38.878 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:22:38.883 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:22:38.946 +03:00 [INF] Executed ViewResult - view Index executed in 63.6435ms.
+2024-10-15 13:22:38.949 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 73.7478ms
+2024-10-15 13:22:38.949 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:38.957 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 250.3027ms
+2024-10-15 13:22:38.974 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:38.974 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:38.977 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 2.0102ms
+2024-10-15 13:22:39.008 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 33.523ms
+2024-10-15 13:22:39.703 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:22:39.711 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:39.711 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:39.713 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:22:39.713 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:22:39.715 +03:00 [INF] Executed ViewResult - view Index executed in 2.2665ms.
+2024-10-15 13:22:39.715 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 3.9133ms
+2024-10-15 13:22:39.715 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:39.716 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 13.0723ms
+2024-10-15 13:22:39.736 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:39.736 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:39.737 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.2859ms
+2024-10-15 13:22:39.748 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 10.5895ms
+2024-10-15 13:22:40.478 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:22:40.490 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:40.490 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:40.491 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:22:40.491 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:22:40.492 +03:00 [INF] Executed ViewResult - view Index executed in 0.998ms.
+2024-10-15 13:22:40.492 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 1.8232ms
+2024-10-15 13:22:40.492 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:40.492 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 14.0367ms
+2024-10-15 13:22:40.513 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:40.513 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:40.517 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 3.5249ms
+2024-10-15 13:22:40.522 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 9.8262ms
+2024-10-15 13:22:40.913 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/Privacy - null null
+2024-10-15 13:22:40.917 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:22:40.918 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:40.934 +03:00 [INF] 15.10.2024 00:00:00Privacy Sayfası Çağrıldı
+2024-10-15 13:22:40.935 +03:00 [INF] Executing ViewResult, running view Privacy.
+2024-10-15 13:22:40.937 +03:00 [INF] Executed ViewResult - view Privacy executed in 2.5242ms.
+2024-10-15 13:22:40.937 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje) in 18.8018ms
+2024-10-15 13:22:40.937 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:22:40.937 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/Privacy - 200 null text/html; charset=utf-8 23.4423ms
+2024-10-15 13:22:40.958 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:40.959 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:40.962 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 3.2044ms
+2024-10-15 13:22:40.966 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.8391ms
+2024-10-15 13:22:55.976 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:22:55.979 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:55.979 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:55.979 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:22:55.979 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:22:55.980 +03:00 [INF] Executed ViewResult - view Index executed in 0.9073ms.
+2024-10-15 13:22:55.980 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 1.1518ms
+2024-10-15 13:22:55.980 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:22:55.980 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 3.8664ms
+2024-10-15 13:22:56.000 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:56.001 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:56.002 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.1065ms
+2024-10-15 13:22:56.007 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.6316ms
+2024-10-15 13:22:57.276 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/Privacy - null null
+2024-10-15 13:22:57.280 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:22:57.280 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:22:57.280 +03:00 [INF] 15.10.2024 00:00:00Privacy Sayfası Çağrıldı
+2024-10-15 13:22:57.280 +03:00 [INF] Executing ViewResult, running view Privacy.
+2024-10-15 13:22:57.281 +03:00 [INF] Executed ViewResult - view Privacy executed in 0.6765ms.
+2024-10-15 13:22:57.281 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje) in 0.9384ms
+2024-10-15 13:22:57.281 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:22:57.281 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/Privacy - 200 null text/html; charset=utf-8 4.8797ms
+2024-10-15 13:22:57.302 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:22:57.303 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:22:57.304 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.1629ms
+2024-10-15 13:22:57.307 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.5406ms
+2024-10-15 13:23:00.311 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/test - null null
+2024-10-15 13:23:00.313 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje)'
+2024-10-15 13:23:00.314 +03:00 [INF] Route matched with {action = "Test", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Test() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:23:00.314 +03:00 [INF] Test Sayfası Çağrıldı
+2024-10-15 13:23:00.315 +03:00 [INF] Executing ViewResult, running view Test.
+2024-10-15 13:23:00.317 +03:00 [INF] Executed ViewResult - view Test executed in 2.8412ms.
+2024-10-15 13:23:00.317 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje) in 3.3227ms
+2024-10-15 13:23:00.317 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje)'
+2024-10-15 13:23:00.317 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/test - 200 null text/html; charset=utf-8 6.6197ms
+2024-10-15 13:23:00.341 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:23:00.342 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:23:00.343 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 0.7298ms
+2024-10-15 13:23:00.347 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.3217ms
+2024-10-15 13:26:10.105 +03:00 [INF] User profile is available. Using 'C:\Users\Administrator\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-10-15 13:26:10.260 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-10-15 13:26:10.264 +03:00 [INF] Hosting environment: Development
+2024-10-15 13:26:10.264 +03:00 [INF] Content root path: C:\Users\Administrator\source\repos\TraversalCoreProje\TraversalCoreProje
+2024-10-15 13:26:10.288 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:26:10.449 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:10.459 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:10.463 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:26:10.468 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:26:10.532 +03:00 [INF] Executed ViewResult - view Index executed in 64.097ms.
+2024-10-15 13:26:10.536 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 75.7975ms
+2024-10-15 13:26:10.536 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:10.544 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 260.3934ms
+2024-10-15 13:26:10.564 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:10.564 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:10.568 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 2.7226ms
+2024-10-15 13:26:10.598 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 34.0441ms
+2024-10-15 13:26:18.249 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:26:18.257 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:18.257 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:18.258 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:26:18.259 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:26:18.261 +03:00 [INF] Executed ViewResult - view Index executed in 2.5112ms.
+2024-10-15 13:26:18.261 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 3.9168ms
+2024-10-15 13:26:18.261 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:18.262 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 13.0259ms
+2024-10-15 13:26:18.283 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:18.283 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:18.284 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.0357ms
+2024-10-15 13:26:18.295 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 12.2592ms
+2024-10-15 13:26:19.242 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/ - null null
+2024-10-15 13:26:19.256 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:19.256 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:19.257 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:26:19.257 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:26:19.258 +03:00 [INF] Executed ViewResult - view Index executed in 1.1472ms.
+2024-10-15 13:26:19.258 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 1.9477ms
+2024-10-15 13:26:19.258 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:19.259 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/ - 200 null text/html; charset=utf-8 16.2754ms
+2024-10-15 13:26:19.283 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:19.283 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:19.284 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 0.7883ms
+2024-10-15 13:26:19.291 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.3625ms
+2024-10-15 13:26:21.448 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Login/SignIn - null null
+2024-10-15 13:26:21.453 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.LoginController.SignIn (TraversalCoreProje)'
+2024-10-15 13:26:21.455 +03:00 [INF] Route matched with {action = "SignIn", controller = "Login", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult SignIn() on controller TraversalCoreProje.Controllers.LoginController (TraversalCoreProje).
+2024-10-15 13:26:21.456 +03:00 [INF] Executing ViewResult, running view SignIn.
+2024-10-15 13:26:21.488 +03:00 [INF] Executed ViewResult - view SignIn executed in 32.4404ms.
+2024-10-15 13:26:21.488 +03:00 [INF] Executed action TraversalCoreProje.Controllers.LoginController.SignIn (TraversalCoreProje) in 33.0843ms
+2024-10-15 13:26:21.488 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.LoginController.SignIn (TraversalCoreProje)'
+2024-10-15 13:26:21.488 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Login/SignIn - 200 null text/html; charset=utf-8 40.1753ms
+2024-10-15 13:26:21.525 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:21.526 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 0.663ms
+2024-10-15 13:26:21.527 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:21.531 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 4.5477ms
+2024-10-15 13:26:23.327 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/test - null null
+2024-10-15 13:26:23.330 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje)'
+2024-10-15 13:26:23.331 +03:00 [INF] Route matched with {action = "Test", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Test() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:23.331 +03:00 [INF] Test Sayfası Çağrıldı
+2024-10-15 13:26:23.332 +03:00 [INF] Executing ViewResult, running view Test.
+2024-10-15 13:26:23.334 +03:00 [INF] Executed ViewResult - view Test executed in 2.6546ms.
+2024-10-15 13:26:23.334 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje) in 3.0212ms
+2024-10-15 13:26:23.334 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Test (TraversalCoreProje)'
+2024-10-15 13:26:23.334 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/test - 200 null text/html; charset=utf-8 7.7068ms
+2024-10-15 13:26:23.358 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:23.360 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:23.363 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 3.6368ms
+2024-10-15 13:26:23.367 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 8.4234ms
+2024-10-15 13:26:28.606 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/Index - null null
+2024-10-15 13:26:28.609 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:28.609 +03:00 [INF] Route matched with {action = "Index", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:28.609 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 13:26:28.609 +03:00 [INF] Executing ViewResult, running view Index.
+2024-10-15 13:26:28.610 +03:00 [INF] Executed ViewResult - view Index executed in 0.8494ms.
+2024-10-15 13:26:28.610 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje) in 1.1527ms
+2024-10-15 13:26:28.610 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Index (TraversalCoreProje)'
+2024-10-15 13:26:28.611 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/Index - 200 null text/html; charset=utf-8 4.4713ms
+2024-10-15 13:26:28.632 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:28.632 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:28.633 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.0061ms
+2024-10-15 13:26:28.637 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 5.7698ms
+2024-10-15 13:26:30.601 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/Home/Privacy - null null
+2024-10-15 13:26:30.602 +03:00 [INF] Executing endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:26:30.604 +03:00 [INF] Route matched with {action = "Privacy", controller = "Home", area = ""}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Privacy() on controller TraversalCoreProje.Controllers.HomeController (TraversalCoreProje).
+2024-10-15 13:26:30.620 +03:00 [INF] 15.10.2024 00:00:00Privacy Sayfası Çağrıldı
+2024-10-15 13:26:30.621 +03:00 [INF] Executing ViewResult, running view Privacy.
+2024-10-15 13:26:30.623 +03:00 [INF] Executed ViewResult - view Privacy executed in 2.5118ms.
+2024-10-15 13:26:30.623 +03:00 [INF] Executed action TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje) in 19.0334ms
+2024-10-15 13:26:30.623 +03:00 [INF] Executed endpoint 'TraversalCoreProje.Controllers.HomeController.Privacy (TraversalCoreProje)'
+2024-10-15 13:26:30.623 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/Home/Privacy - 200 null text/html; charset=utf-8 22.3919ms
+2024-10-15 13:26:30.644 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_vs/browserLink - null null
+2024-10-15 13:26:30.645 +03:00 [INF] Request starting HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - null null
+2024-10-15 13:26:30.646 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_framework/aspnetcore-browser-refresh.js - 200 13772 application/javascript; charset=utf-8 1.2111ms
+2024-10-15 13:26:30.650 +03:00 [INF] Request finished HTTP/2 GET https://localhost:44320/_vs/browserLink - 200 null text/javascript; charset=UTF-8 6.4955ms
+2024-10-15 14:49:43.855 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 14:49:53.089 +03:00 [INF] 15.10.2024 00:00:00Privacy Sayfası Çağrıldı
+2024-10-15 14:49:56.323 +03:00 [INF] Index Sayfası Çağrıldı
+2024-10-15 14:49:57.232 +03:00 [INF] Index Sayfası Çağrıldı

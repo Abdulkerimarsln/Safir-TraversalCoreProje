@@ -1,0 +1,46 @@
+﻿@model List<AppUser>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+    var count = 0;
+}
+
+<h1>Kullanıcı Listesi</h1>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-danger" role="alert">
+        <span style="color:black; text-align:center">Yorum Yok</span>
+    </div>
+}
+else
+{
+    <table class="table table-bordered">
+        <tr>
+            <th>#</th>
+            <th>Ad Soyad</th>
+            <th>Kullanıcı Adı</th>
+            <th>Mail</th>
+            <th>Sil</th>
+            <th>Düzenle</th>
+            <th>Yorumlar</th>
+            <th>Tur Geçmişi</th>
+        </tr>
+        <tr>
+            @foreach (var item in Model)
+            {
+                count++;
+                <td>@count</td>
+                <td>@item.Name @item.Surname</td>
+                <td>@item.UserName</td>
+                <td>@item.Email</td>
+
+                <td><a href="/Admin/User/DeleteUser/@item.Id" class="btn btn-outline-danger" onclick="return confirm('Silmek istediğinden emin misin?')">Sil</a></td>
+                <td><a href="/Admin/User/EditUser/@item.Id" class="btn btn-outline-success">Düzenle</a></td>
+                <td><a href="/Admin/User/CommentUser/@item.Id" class="btn btn-outline-info">Yorumlar</a></td>
+                <td><a href="/Admin/User/ReservationUser/@item.Id" class="btn btn-outline-danger">Tur Geçmişi</a></td>
+            }
+        </tr>
+    </table>
+}
+<a href="/Admin/User/AddUser/" class="btn btn-outline-primary">Yeni Kullanıcı Kayıt</a>
