@@ -73,3 +73,7 @@ TraversalCore, güçlü bir arka uç altyapısı ve kullanıcı dostu işlevsell
    GitHub reposunu bilgisayarınıza klonlamak için aşağıdaki komutu kullanın:
    ```bash
    git clone [https://github.com/Abdulkerimarsln/TraversalCoreProje]
+
+### Resimler
+
+![TraversalCore Screenshot](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/11.png)
