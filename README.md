@@ -76,4 +76,22 @@ TraversalCore, güçlü bir arka uç altyapısı ve kullanıcı dostu işlevsell
 
 ### Resimler
 
-![TraversalCore Screenshot](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/11.png)
+![TraversalCore Screenshot 11](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/11.png)
+![TraversalCore Screenshot 12](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/12.png)
+![TraversalCore Screenshot 13](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/13.png)
+![TraversalCore Screenshot 14](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/14.png)
+![TraversalCore Screenshot 15](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/15.png)
+![TraversalCore Screenshot 16](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/16.png)
+![TraversalCore Screenshot 17](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/17.png)
+![TraversalCore Screenshot 1](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/1.png)
+![TraversalCore Screenshot 2](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/2.png)
+![TraversalCore Screenshot 3](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/3.png)
+![TraversalCore Screenshot 4](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/4.png)
+![TraversalCore Screenshot 5](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/5.png)
+![TraversalCore Screenshot 6](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/6.png)
+![TraversalCore Screenshot 7](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/7.png)
+![TraversalCore Screenshot 8](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/8.png)
+![TraversalCore Screenshot 9](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/9.png)
+![TraversalCore Screenshot 10](https://github.com/Abdulkerimarsln/Safir-TraversalCoreProje/blob/main/10.png)
+
+
